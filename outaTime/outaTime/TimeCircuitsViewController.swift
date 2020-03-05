@@ -20,6 +20,12 @@ class TimeCircuitsViewController: UIViewController {
     @IBAction func BackButton(_ sender: UIButton) {
     }
     
+    var dateFormatter: DateFormatter {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "MMM dd, yyyy"
+        formatter.timeZone = TimeZone(secondsFromGMT: 0)
+        return formatter
+    }
     
     
     
