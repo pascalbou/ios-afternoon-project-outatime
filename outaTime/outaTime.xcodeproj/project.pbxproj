@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FB571642416E04D005E9CBA /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3FF9C3B224116A5900728DD8 /* digital-7.ttf */; };
 		3FF9C39A2411665400728DD8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF9C3992411665400728DD8 /* AppDelegate.swift */; };
 		3FF9C39C2411665400728DD8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF9C39B2411665400728DD8 /* SceneDelegate.swift */; };
 		3FF9C3A12411665400728DD8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FF9C39F2411665400728DD8 /* Main.storyboard */; };
@@ -133,6 +134,7 @@
 				3FF9C3A62411665500728DD8 /* LaunchScreen.storyboard in Resources */,
 				3FF9C3A32411665500728DD8 /* Assets.xcassets in Resources */,
 				3FF9C3A12411665400728DD8 /* Main.storyboard in Resources */,
+				3FB571642416E04D005E9CBA /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
